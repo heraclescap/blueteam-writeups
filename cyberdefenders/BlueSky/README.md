@@ -18,7 +18,7 @@ Ce qui rend ce lab intéressant par rapport à un lab classique "phishing + macr
 
 ## Méthodologie et sources
 
-Analyse statique du PCAP sous Wireshark/tshark, corrélation avec les Event Logs Windows. Pour les questions MITRE, consultation directe de attack.mitre.org. Pas d'outils tiers payants.
+Analyse statique du PCAP sous Wireshark, corrélation avec les Event Logs Windows. Pour les questions MITRE, consultation directe de attack.mitre.org. Pas d'outils tiers payants.
 
 Les deux artefacts se complètent : le PCAP contient les scripts téléchargés (HTTP en clair depuis `87.96.21.84`), les Event Logs prouvent l'exécution côté victime. Quand l'un des deux ne suffit pas, la réponse est dans l'autre.
 
