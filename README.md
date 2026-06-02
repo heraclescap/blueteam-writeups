@@ -10,6 +10,7 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 |---|---|---|---|---|
 | [BRabbit](https://cyberdefenders.org/blueteam-ctf-challenges/brabbit) | CyberDefenders | Medium | Threat Intel | 2026-05-31 |
 | [KrakenKeylogger](https://cyberdefenders.org/blueteam-ctf-challenges/krakenkeylogger) | CyberDefenders | Medium | Endpoint Forensics | 2026-06-01 |
+| [BlueSky Ransomware](https://cyberdefenders.org/blueteam-ctf-challenges/bluesky-ransomware) | CyberDefenders | Medium | Network Forensics | 2026-06-02 |
 
 ## Structure du repo
 
@@ -17,7 +18,8 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 .
 ├── cyberdefenders/         # CyberDefenders labs
 │   ├── BRabbit/
-│   └── KrakenKeylogger/
+│   ├── KrakenKeylogger/
+│   └── BlueSky/
 ├── btlo/                   # Blue Team Labs Online
 └── hackthebox-sherlocks/   # HTB DFIR / Forensics challenges
 ```
