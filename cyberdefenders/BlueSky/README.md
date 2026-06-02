@@ -176,7 +176,7 @@ Get-WmiObject _FilterToConsumerBinding -Namespace root\subscription | Remove-Wmi
 stop-process $pid -Force
 ```
 
-L'intention globale est de **disparaître proprement**. Pas de dégradation durable de l'infrastructure défensive — juste effacement et dissimulation avant de passer à la phase suivante.
+L'intention globale est de **disparaître proprement**. Pas de dégradation durable de l'infrastructure défensive, juste effacement et dissimulation avant de passer à la phase suivante.
 
 **Réponse** : `TA0005` (Stealth)
 
