@@ -28,4 +28,5 @@ Chaque writeup vit dans son propre dossier (`<plateforme>/<nom-challenge>/`) ave
 
 ## À propos
 
-Apprenti SOC analyst, intérêt particulier pour la detection engineering et l'incident response. Ces writeups servent à documenter ma méthodologie et garder une trace de ce que j'apprends.
+SOC analyst en alternance. J'aime la cybersécurité défensive dans ce qu'elle a de plus concret : comprendre ce qui s'est passé, comment, dans quel ordre.
+Ces writeups documentent ma méthodo et mes erreurs. Pas de vulgarisation, pas de tutorial, juste ce que j'ai fait, pourquoi ça a marché ou pas, et ce que je retiens.
