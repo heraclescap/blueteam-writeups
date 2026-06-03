@@ -12,6 +12,7 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 | [KrakenKeylogger](https://cyberdefenders.org/blueteam-ctf-challenges/krakenkeylogger) | CyberDefenders | Medium | Endpoint Forensics | 2026-06-01 |
 | [BlueSky Ransomware](https://cyberdefenders.org/blueteam-ctf-challenges/bluesky-ransomware) | CyberDefenders | Medium | Network Forensics | 2026-06-02 |
 | [GetPDF](https://cyberdefenders.org/blueteam-ctf-challenges/getpdf) | CyberDefenders | Medium | Malware Analysis | 2026-06-03 |
+| [Silent Breach](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach) | CyberDefenders | Medium | Endpoint Forensics | 2026-06-03 |
 
 ## Structure du repo
 
@@ -21,7 +22,8 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 │   ├── BRabbit/
 │   ├── KrakenKeylogger/
 │   ├── BlueSky/
-│   └── GetPDF/
+│   ├── GetPDF/
+│   └── SilentBreach/
 ├── btlo/                   # Blue Team Labs Online
 └── hackthebox-sherlocks/   # HTB DFIR / Forensics challenges
 ```
