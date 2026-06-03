@@ -305,7 +305,7 @@ Adobe Reader ouvre le PDF automatiquement
                     └── Shikata Ga Nai decode → URLDownloadToFileA
                                                       │
                                                       ▼
-                             the_real_malware.exe
+                                            the_real_malware.exe
 ```
 
 ---
