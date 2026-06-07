@@ -15,6 +15,7 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 | [Silent Breach](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach) | CyberDefenders | Medium | Endpoint Forensics | 2026-06-03 |
 | [Bumblebee](https://app.hackthebox.com/sherlocks/bumblebee) | HackTheBox | Easy | DFIR | 2026-06-04 |
 | [Pikaptcha](https://app.hackthebox.com/sherlocks/Pikaptcha) | HackTheBox | Easy | DFIR | 2026-06-04 |
+| [Holmes 2025 2 : The Watchman's Residue](https://app.hackthebox.com/sherlocks/TheWatchmansResidue) | HackTheBox | Medium | SOC | 2026-06-07 |
 
 ## Structure du repo
 
@@ -29,7 +30,8 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 ├── btlo/                   # Blue Team Labs Online
 └── hackthebox-sherlocks/   # HTB Sherlocks
     ├── Bumblebee/
-    └── Pikaptcha/
+    ├── Pikaptcha/
+    └── WatchmansResidue/
 ```
 
 Chaque writeup vit dans son propre dossier (`<plateforme>/<nom-challenge>/`) avec un `README.md` et un sous-dossier `images/` pour les captures.
