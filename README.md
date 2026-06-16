@@ -1,6 +1,6 @@
 # Blue Team Writeups
 
-Mes solutions aux challenges blue team : CyberDefenders, Blue Team Labs Online (BTLO), HackTheBox Sherlocks.
+Mes solutions aux challenges blue team : CyberDefenders ou HackTheBox Sherlocks.
 
 Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint Detection.
 
@@ -27,7 +27,6 @@ Focus : DFIR, Threat Intelligence, Malware Analysis, Network Forensics, Endpoint
 │   ├── BlueSky/
 │   ├── GetPDF/
 │   └── SilentBreach/
-├── btlo/                   # Blue Team Labs Online
 └── hackthebox-sherlocks/   # HTB Sherlocks
     ├── Bumblebee/
     ├── Pikaptcha/
